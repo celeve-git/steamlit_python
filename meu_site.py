@@ -23,7 +23,7 @@ with st.container():
     st.write('---')
 
 with st.container():
-    st.write('---OUTRO CONTAINER---')
+    st.write('---NOVO CONTAINER---')
     st.image("prédio01.jpg", caption="Figura 01")
 
 with st.container():
