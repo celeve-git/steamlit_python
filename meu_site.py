@@ -8,7 +8,7 @@ import streamlit as st
 #icon = ":material/token:"
 icon = "flight_takeoff.svg"
 st.set_page_config(
-    page_title="CELEVE Assessoria",
+    page_title="Minha Assessoria",
     page_icon=icon,
 )
 
